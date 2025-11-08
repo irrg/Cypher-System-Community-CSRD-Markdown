@@ -1,16 +1,18 @@
 ---
 aliases:
-- "Sunglasses"
+  - Sunglasses
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
+title: Sunglasses
+collection: Equipment
+kind: Equipment
+id: Sunglasses
 ---
-
-  
-## Sunglasses  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
+## Sunglasses    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
 > **Value :** Inexpensive

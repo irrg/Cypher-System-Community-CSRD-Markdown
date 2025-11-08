@@ -1,16 +1,18 @@
 ---
 aliases:
-- "Portable Lamp"
+  - Portable Lamp
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+title: Portable Lamp
+collection: Equipment
+kind: Equipment
+id: Portable-Lamp
 ---
-
-  
-## Portable Lamp  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
+## Portable Lamp    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
 > **Value :** Moderate

@@ -1,17 +1,26 @@
 ---
 aliases:
-- "Sleuth"
+  - Sleuth
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Sleuth
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Task
+id: Sleuth
 ---
-
-  
-## Sleuth  
->**Enabler**
-  
+## Sleuth    
+>**Enabler**  
+    
 Finding the clues is the first step in solving a mystery. You are trained in perception. Enabler.
